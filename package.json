@@ -4,7 +4,7 @@
   "description": "Full stack web app with React and Spring Boot used for managing digital wallet and transactions",
   "scripts": {
     "build": "cd frontend && npm install && npm run build",
-    "start": "cd frontend && npm start",
+    "start": "cd frontend && npm install && npm start",
     "install": "cd frontend && npm install"
   },
   "keywords": ["e-wallet", "react", "spring-boot", "digital-wallet"],
